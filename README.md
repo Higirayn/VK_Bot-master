@@ -1,8 +1,7 @@
 > # VK Project Raid Activity Bot
 > (Не актуально)
-> Разработчики __[Hypocrite07](https://t.me/hypocrite07)__ и __[Higirayn](https://t.me/higirayn)__.
+> Разработчики __[Higirayn](https://t.me/higirayn)__.
 > 
-> Специально для проекта ____[ProjectRaid](https://vk.com/deathraid)____
 > 
 > Версия: 1.0
 ## Описание:
