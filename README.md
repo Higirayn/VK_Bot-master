@@ -1,5 +1,5 @@
 > # VK Project Raid Activity Bot
-> (Не актуально)
+> 
 > Разработчики __[Higirayn](https://t.me/higirayn)__.
 > 
 > 
